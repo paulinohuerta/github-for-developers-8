@@ -5,7 +5,7 @@
 3. Type an **Issue Title**
 4. Type a **Comment** as instructed by the facilitator.
 5. Type **@** and the instructor's name to @mention the instructor.
-6. Click Submit new issue.
+6. Click Submit new issue.To see.
 
 ### Digging Deeper
 
